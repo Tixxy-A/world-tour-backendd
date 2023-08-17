@@ -1,0 +1,9 @@
+{
+    "env":{
+        "user": "zenitsu",
+        "password": "demonslayer",
+        "name":"project",
+        "jwt":"secret_lies_here"
+    }
+    
+}
